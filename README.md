@@ -32,4 +32,11 @@
 ### Download dataset from here
 ##### This is the dataset link I used [link](https://www.kaggle.com/datasets/msambare/fer2013)
 
-### If you want to train more
+### If you want to train more 
+```
+    python main.py --whattodo train_it
+```
+### If you want to test it
+```
+    python main.py --whattodo test_it
+```
